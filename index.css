@@ -1,0 +1,24 @@
+.main-body {
+    background-color: rgb(192, 223, 255);
+}
+
+footer {
+    position: relative;
+    top: 10px;
+}
+
+.box {
+    background-color: rgb(144, 181, 218);
+    width: 500px;
+    height: 800px;
+    position: relative;
+    left: 50px;
+    padding: 20px;
+}
+
+.cat {
+    width: 450px;
+    height: auto;
+    position: relative;
+    right: -2px;
+}
