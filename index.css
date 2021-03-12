@@ -22,3 +22,13 @@ footer {
     position: relative;
     right: -2px;
 }
+
+.explore-kitchen {
+    position: relative;
+    left: 65px;
+}
+
+.logo {
+    width: 60px ;
+    height: 60px;
+}
